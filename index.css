@@ -1,0 +1,34 @@
+
+.re {
+    position: relative;
+}
+.ab {
+    position: absolute;
+    top: 50%;
+    left:40%;
+    text-align: center;
+}
+
+.center {
+    display: inline-block;
+    text-align: center;
+    width: 500px;
+    margin-left: 5px;
+    margin-right:5px;
+}
+
+.in {
+    display: inline-block;
+    width: 400px;
+    margin-left: 8%;
+    text-align: center;
+}
+
+.in1 {
+    display: inline-block;
+    color: white;
+    padding-left: 4%;
+    padding-right: 8%;
+}
+
+
